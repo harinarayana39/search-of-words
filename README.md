@@ -2,6 +2,8 @@
 
 Search-of-Words
 
+
+
 . Searching a word in document is a very critical task in the case when the document is of very large size.
 . It takes a lot of time and it’s not flexible, in order to make the task easier this project is developed.
 . In this project, we are able to search a word such that we can get all the documents which consist of that word.
